@@ -1,0 +1,17 @@
+.visitplaces{
+  border: 1px solid;
+    padding-left: 0px;
+        padding-right: 0px;
+    float: none;
+}
+.visitplaces img{
+    width: 100%;
+}
+.travel3{
+     font-size: 20px;
+    width: 100%;
+    display: inline-block;
+}
+.visitplaces hr{
+    width: 250px;
+}
